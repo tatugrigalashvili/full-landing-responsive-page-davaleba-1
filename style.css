@@ -29,6 +29,8 @@ button{
     column-gap: 25px;
     justify-content: end;
     margin: 0;
+    margin-right: 30px;
+    margin-top: 20px;
 }
 .home{
     display: flex;
@@ -269,7 +271,7 @@ button{
    }
     .first_box, .second_box{
         width: 354px;
-        height: 266px;
+        height: 290px;
         background-color: #FFFFFF;
     }
     .seperator{
@@ -326,7 +328,7 @@ button{
         margin-left: 8px;
     }
     .xazi{
-        width: 858px;
+        width: 100%;
         height: 1px;
         background-color: #E0E0E0;
     }
